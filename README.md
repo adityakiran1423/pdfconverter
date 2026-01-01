@@ -13,6 +13,6 @@ A script to convert a pdf into either an excel or a word file
 
 ## How to run
 
-1. Type `python main.py <location of pdf file> <type of file you want it to convert to>`
+1. Type `python3 main.py <location of pdf file> <type of file you want it to convert to>`
 <br> <br>
-Example : `python main.py "Bloomberg Billionaires Index.pdf" excel`
+Example : `python3 main.py "Bloomberg Billionaires Index.pdf" excel`
